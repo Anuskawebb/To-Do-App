@@ -1,7 +1,3 @@
-Here’s a point-wise version for your README file:
-
----
-
 # To-Do List App
 
 A simple, easy-to-use To-Do List application built with HTML, CSS, and JavaScript.
